@@ -78,8 +78,7 @@ The Python notebook containing the data cleaning process is included in this rep
 
 ## 📁 Project Contents
 
-* `Dataset/Attendance_Cleaned_Dataset.xlsx` – Cleaned and anonymized attendance dataset
-* `Dashboard_Screenshot.png` – Power BI dashboard preview
-* `Data_Cleaning.ipynb` – Python/Pandas data cleaning notebook
-* `README.md` – Project documentation
-
+- `Dataset/Attendance_Cleaned_Dataset.xlsx` – Cleaned and anonymized attendance dataset
+- `Dashboard_Screenshot.png` – Power BI dashboard preview
+- `Data_Cleaning.ipynb` – Python/Pandas data cleaning notebook
+- `README.md` – Project documentation
