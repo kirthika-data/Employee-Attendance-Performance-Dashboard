@@ -2,9 +2,9 @@
 
 ## 📊 Overview
 
-The Employee Attendance & Performance Dashboard is an interactive Power BI dashboard developed to analyze employee attendance and working patterns.
+The **Employee Attendance & Performance Dashboard** is an interactive Power BI dashboard developed to analyze employee attendance and working patterns.
 
-The company-provided attendance data was cleaned and prepared using Python (Pandas) in Google Colab and then used in Power BI to create an interactive dashboard.
+The company-provided attendance data was cleaned and prepared using **Python (Pandas) in Google Colab** and then used in Power BI to create an interactive dashboard.
 
 ## 🎯 Project Objective
 
@@ -45,7 +45,13 @@ To analyze employee attendance, working hours, overtime, and late attendance and
 
 ## 📂 Dataset
 
-The dataset contains employee attendance records used for analysis. Employee names were anonymized as Emp 1, Emp 2, Emp 3, etc.
+The dataset contains employee attendance records used for analysis. Employee names were anonymized as **Emp 1, Emp 2, Emp 3, etc.**
+
+## 🐍 Data Cleaning
+
+The attendance data was cleaned and prepared using **Python and Pandas in Google Colab** before being used for dashboard development.
+
+The Python notebook containing the data cleaning process is included in this repository.
 
 ## 🔄 Project Workflow
 
@@ -72,6 +78,8 @@ The dataset contains employee attendance records used for analysis. Employee nam
 
 ## 📁 Project Contents
 
-* `Dataset/Attendance_Cleaned_Dataset.xlsx` – Cleaned attendance dataset
+* `Dataset/Attendance_Cleaned_Dataset.xlsx` – Cleaned and anonymized attendance dataset
 * `Dashboard_Screenshot.png` – Power BI dashboard preview
+* `Data_Cleaning.ipynb` – Python/Pandas data cleaning notebook
 * `README.md` – Project documentation
+
